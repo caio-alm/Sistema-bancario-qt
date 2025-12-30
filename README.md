@@ -14,7 +14,7 @@ Este é um projeto de sistema bancário desenvolvido como parte do trabalho da U
 * **IDE:** Qt Creator
 * **Compilador:** MinGW / MSVC
 
-## 📂 Como Rodar o Projeto
+## Como Rodar o Projeto
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/caio-alm/Sistema-bancario-qt.git](https://github.com/caio-alm/Sistema-bancario-qt.git)
