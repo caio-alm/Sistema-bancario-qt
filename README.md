@@ -45,7 +45,7 @@ Sistema-bancario-qt
 
 
 ## Como Rodar o Projeto
-[![Download Zip](https://img.shields.io/badge/Download-Baixar_ZIP-blue?style=for-the-badge&logo=windows)](sha256:d3b8f6cf541bda0dca557e9aa14be2a72f24f284b63f5265c2f1b56cf7f0d5b5)
+[![Download Zip](https://img.shields.io/badge/Download-Baixar_ZIP-blue?style=for-the-badge&logo=windows)](https://github.com/caio-alm/Sistema-bancario-qt/releases/download/v1.0/TP_2qt.zip)
 
 1. Baixe o arquivo **TP_2qt.zip**.
 3. Após a instalação fazer a extração dos arquivos
