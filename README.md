@@ -43,11 +43,14 @@ Sistema-bancario-qt
     dialogconta.ui/cpp/hpp    - Janela de Gerenciamento da Conta
     dialogsobre.ui/cpp/hpp    - Janela "Sobre" com créditos
 
+
 ## Como Rodar o Projeto
+[![Download Zip](https://img.shields.io/badge/Download-Baixar_ZIP-blue?style=for-the-badge&logo=windows)](sha256:d3b8f6cf541bda0dca557e9aa14be2a72f24f284b63f5265c2f1b56cf7f0d5b5)
+
 1. Baixe o arquivo **TP_2qt.zip**.
-2. Após a instalação fazer a extração dos arquivos
-3. Abra o Qt Creator.
-4. Vá em Open Project, e procure a pasta com os arquivos extraidos.
-5. Já dentro da pasta faça o seguinte caminho:
+3. Após a instalação fazer a extração dos arquivos
+4. Abra o Qt Creator.
+5. Vá em Open Project, e procure a pasta com os arquivos extraidos.
+6. Já dentro da pasta faça o seguinte caminho:
    - **TP_2qt > SistemaBancoQt > CMakeLists**
    - Após isso você terá o código aberto em seu Qt Creator.
