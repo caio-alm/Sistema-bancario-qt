@@ -1,4 +1,4 @@
-# Sistema Bancário - Qt C++ 🏦💳
+# Sistema Bancário - Qt C++
 
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
 ![Qt](https://img.shields.io/badge/Qt-6.10.0-green)
